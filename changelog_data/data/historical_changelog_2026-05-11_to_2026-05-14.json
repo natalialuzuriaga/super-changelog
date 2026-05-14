@@ -1,0 +1,1279 @@
+{
+  "repos": [
+    {
+      "name": "dsacms.github.io",
+      "url": "https://github.com/DSACMS/dsacms.github.io",
+      "description": "Landing Page for DSACMS GitHub Organization",
+      "archived": false,
+      "topics": [],
+      "issues": [],
+      "pulls": [],
+      "commits": [
+        {
+          "message": "Update README.md\n\nAdd WH ONCD report",
+          "url": "https://github.com/DSACMS/dsacms.github.io/commit/7e45b333a73eab1cbaacf9bdc4a87d57ed37f738",
+          "author": "decause-gov",
+          "created_at": "2026-05-13T19:28:04+00:00"
+        },
+        {
+          "message": "Update README.md\n\nFix broken links",
+          "url": "https://github.com/DSACMS/dsacms.github.io/commit/328e6bac4e1034d95fe3f3f9e96a21a0c9a4ce3c",
+          "author": "decause-gov",
+          "created_at": "2026-05-13T19:08:29+00:00"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "decause-gov",
+          "company": "@CMSgov ",
+          "created_at": "2022-06-21T20:20:11+00:00",
+          "email": null
+        }
+      ],
+      "changelog_entries": [],
+      "releases": []
+    },
+    {
+      "name": "metrics",
+      "url": "https://github.com/DSACMS/metrics",
+      "description": "CMS Open Source Repository Metrics Website",
+      "archived": false,
+      "topics": [
+        "data-collection",
+        "data-visualization",
+        "git",
+        "github",
+        "github-pages",
+        "health",
+        "metrics",
+        "opensource",
+        "cmsgov",
+        "website",
+        "html-css-javascript",
+        "python",
+        "featured"
+      ],
+      "issues": [],
+      "pulls": [
+        {
+          "title": "Update urllib3 requirement from >=2.6.3 to >=2.7.0",
+          "url": "https://github.com/DSACMS/metrics/pull/435",
+          "created_at": "2026-05-12T02:11:55+00:00",
+          "updated_at": "2026-05-12T02:11:56+00:00",
+          "merged_at": null,
+          "state": "open",
+          "merged": false,
+          "author": "dependabot[bot]",
+          "is_new": true
+        }
+      ],
+      "commits": [],
+      "contributors": [],
+      "changelog_entries": [],
+      "releases": []
+    },
+    {
+      "name": "ospo-guide",
+      "url": "https://github.com/DSACMS/ospo-guide",
+      "description": "Open Source Program Office Guide for CMS.gov",
+      "archived": false,
+      "topics": [
+        "guide",
+        "ospo",
+        "featured"
+      ],
+      "issues": [],
+      "pulls": [
+        {
+          "title": "Outbound: Add archival candidacy content to archival guide",
+          "url": "https://github.com/DSACMS/ospo-guide/pull/123",
+          "created_at": "2026-05-13T16:26:58+00:00",
+          "updated_at": "2026-05-13T18:50:21+00:00",
+          "merged_at": "2026-05-13T18:50:17+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "natalialuzuriaga",
+          "is_new": true
+        }
+      ],
+      "commits": [
+        {
+          "message": "Merge pull request #123 from DSACMS/DSACMS/nat/archival-update-2\n\nOutbound: Add archival candidacy content to archival guide",
+          "url": "https://github.com/DSACMS/ospo-guide/commit/45037615933b13d4ccfbe40229c8961f6e8a40a7",
+          "author": "decause-gov",
+          "created_at": "2026-05-13T18:50:17+00:00"
+        },
+        {
+          "message": "Fixed formatting for status determination table\n\nSigned-off-by: Natalia Luzuriaga <natalia.luzuriaga@cms.hhs.gov>",
+          "url": "https://github.com/DSACMS/ospo-guide/commit/e72a04f0705c0ea61af6ccd423f939575802f72f",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-13T18:12:14+00:00"
+        },
+        {
+          "message": "Add archival candidancy content to archival guide\n\nSigned-off-by: Natalia Luzuriaga <natalia.luzuriaga@cms.hhs.gov>",
+          "url": "https://github.com/DSACMS/ospo-guide/commit/853fa03af89a68c82885de72eeec22acc30bdd07",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-13T16:23:09+00:00"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "decause-gov",
+          "company": "@CMSgov ",
+          "created_at": "2022-06-21T20:20:11+00:00",
+          "email": null
+        }
+      ],
+      "changelog_entries": [],
+      "releases": []
+    },
+    {
+      "name": "iv-cbv-payroll",
+      "url": "https://github.com/DSACMS/iv-cbv-payroll",
+      "description": "Eligibility Made Easy (Emmy) using Consent-Based Verification (CBV) is a prototype that allows benefit applicants to verify their income directly using payroll providers. It is currently being piloted for testing and validation purposes.",
+      "archived": false,
+      "topics": [
+        "cms",
+        "community-engagement",
+        "medicaid",
+        "medicaid-expansion",
+        "eligibility-determination",
+        "hr-1",
+        "income-verification",
+        "work-requirement",
+        "education",
+        "open-source",
+        "center-for-medicaid-and-children-services",
+        "education-program",
+        "work-program"
+      ],
+      "issues": [],
+      "pulls": [
+        {
+          "title": "FFS-4319: Pre-populate employment data",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1710",
+          "created_at": "2026-05-13T13:24:52+00:00",
+          "updated_at": "2026-05-14T15:09:07+00:00",
+          "merged_at": null,
+          "state": "open",
+          "merged": false,
+          "author": "millerti",
+          "is_new": true
+        },
+        {
+          "title": "Fix PR environment DB access",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1709",
+          "created_at": "2026-05-13T07:17:27+00:00",
+          "updated_at": "2026-05-13T21:06:45+00:00",
+          "merged_at": "2026-05-13T21:06:42+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "bencalegari",
+          "is_new": true
+        },
+        {
+          "title": "FFS-4003: Refactor logic for creating education Activity Hub cards and progress calculation",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1708",
+          "created_at": "2026-05-12T22:50:39+00:00",
+          "updated_at": "2026-05-13T21:33:13+00:00",
+          "merged_at": null,
+          "state": "open",
+          "merged": false,
+          "author": "daphnegold",
+          "is_new": true
+        },
+        {
+          "title": "Bump bridgecrewio/checkov-action from 12.2296.0 to 12.3102.0",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1707",
+          "created_at": "2026-05-12T21:30:26+00:00",
+          "updated_at": "2026-05-13T21:07:20+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "dependabot[bot]",
+          "is_new": true
+        },
+        {
+          "title": "Bump factory_bot from 6.5.6 to 6.6.0 in /app",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1706",
+          "created_at": "2026-05-12T21:24:37+00:00",
+          "updated_at": "2026-05-13T21:06:43+00:00",
+          "merged_at": "2026-05-13T21:06:40+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "dependabot[bot]",
+          "is_new": true
+        },
+        {
+          "title": "Bump axe-core-rspec from 4.11.2 to 4.11.3 in /app",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1705",
+          "created_at": "2026-05-12T21:24:08+00:00",
+          "updated_at": "2026-05-13T21:06:11+00:00",
+          "merged_at": "2026-05-13T21:06:08+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "dependabot[bot]",
+          "is_new": true
+        },
+        {
+          "title": "Bump selenium-webdriver from 4.43.0 to 4.44.0 in /app",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1704",
+          "created_at": "2026-05-12T21:23:46+00:00",
+          "updated_at": "2026-05-13T21:05:23+00:00",
+          "merged_at": "2026-05-13T21:05:20+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "dependabot[bot]",
+          "is_new": true
+        },
+        {
+          "title": "Bump aws-sdk-s3 from 1.220.0 to 1.221.0 in /app",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1703",
+          "created_at": "2026-05-12T21:23:20+00:00",
+          "updated_at": "2026-05-13T21:04:40+00:00",
+          "merged_at": "2026-05-13T21:04:37+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "dependabot[bot]",
+          "is_new": true
+        },
+        {
+          "title": "Bump vitest from 4.1.5 to 4.1.6 in /app",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1702",
+          "created_at": "2026-05-12T21:23:06+00:00",
+          "updated_at": "2026-05-13T21:07:25+00:00",
+          "merged_at": "2026-05-13T21:07:22+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "dependabot[bot]",
+          "is_new": true
+        },
+        {
+          "title": "Bump view_component from 4.9.0 to 4.10.0 in /app",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1701",
+          "created_at": "2026-05-12T21:22:52+00:00",
+          "updated_at": "2026-05-13T21:01:22+00:00",
+          "merged_at": "2026-05-13T21:01:20+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "dependabot[bot]",
+          "is_new": true
+        },
+        {
+          "title": "Bump vite from 8.0.10 to 8.0.12 in /app",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1700",
+          "created_at": "2026-05-12T21:22:51+00:00",
+          "updated_at": "2026-05-13T20:45:04+00:00",
+          "merged_at": "2026-05-13T20:45:01+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "dependabot[bot]",
+          "is_new": true
+        },
+        {
+          "title": "FFS-4012: Add validation error for blank less-than-half-time hours entry",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1699",
+          "created_at": "2026-05-12T20:48:03+00:00",
+          "updated_at": "2026-05-13T21:47:45+00:00",
+          "merged_at": null,
+          "state": "open",
+          "merged": false,
+          "author": "tdooner",
+          "is_new": true
+        },
+        {
+          "title": "FFS-4008: Spike: Investigate speeding up our E2E test suite",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1698",
+          "created_at": "2026-05-11T23:37:53+00:00",
+          "updated_at": "2026-05-12T23:31:57+00:00",
+          "merged_at": null,
+          "state": "open",
+          "merged": false,
+          "author": "bencalegari",
+          "is_new": true
+        },
+        {
+          "title": "Fix warnings in Nokogiri / Templates",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1697",
+          "created_at": "2026-05-11T20:46:31+00:00",
+          "updated_at": "2026-05-13T19:35:25+00:00",
+          "merged_at": null,
+          "state": "open",
+          "merged": false,
+          "author": "bencalegari",
+          "is_new": true
+        },
+        {
+          "title": "FFS-4059: Validated education activity routing skips enrollment details page",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1696",
+          "created_at": "2026-05-11T20:24:17+00:00",
+          "updated_at": "2026-05-13T17:36:33+00:00",
+          "merged_at": "2026-05-13T17:36:30+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "bencalegari",
+          "is_new": true
+        },
+        {
+          "title": "Update readme4197",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1695",
+          "created_at": "2026-05-11T19:12:52+00:00",
+          "updated_at": "2026-05-11T19:14:34+00:00",
+          "merged_at": "2026-05-11T19:14:31+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "serverless-mom",
+          "is_new": true
+        },
+        {
+          "title": "Bump urllib3 from 2.6.3 to 2.7.0 in /app/analytics in the pip group across 1 directory",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1694",
+          "created_at": "2026-05-11T17:22:30+00:00",
+          "updated_at": "2026-05-13T20:44:28+00:00",
+          "merged_at": "2026-05-13T20:44:23+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "dependabot[bot]",
+          "is_new": true
+        },
+        {
+          "title": "fix: patch Dockerfile for OS-level CVEs flagged by Trivy/Anchore",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1693",
+          "created_at": "2026-05-11T12:04:51+00:00",
+          "updated_at": "2026-05-11T17:09:07+00:00",
+          "merged_at": "2026-05-11T17:09:04+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "github-actions[bot]",
+          "is_new": true
+        },
+        {
+          "title": "Bump fast-uri from 3.1.0 to 3.1.2 in /app in the npm_and_yarn group across 1 directory",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1692",
+          "created_at": "2026-05-08T20:59:55+00:00",
+          "updated_at": "2026-05-11T16:41:59+00:00",
+          "merged_at": "2026-05-11T16:41:56+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "dependabot[bot]",
+          "is_new": false
+        },
+        {
+          "title": "Bump devise from 5.0.3 to 5.0.4 in /app in the bundler group across 1 directory",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1691",
+          "created_at": "2026-05-08T19:57:25+00:00",
+          "updated_at": "2026-05-11T16:42:11+00:00",
+          "merged_at": "2026-05-11T16:42:09+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "dependabot[bot]",
+          "is_new": false
+        },
+        {
+          "title": "[Snyk] Security upgrade devise from 5.0.3 to 5.0.4",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1690",
+          "created_at": "2026-05-08T19:33:06+00:00",
+          "updated_at": "2026-05-11T16:42:22+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "decause-gov",
+          "is_new": false
+        },
+        {
+          "title": "FFS-4011: Employment details pulling specific dates instead of months",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1685",
+          "created_at": "2026-05-06T21:45:38+00:00",
+          "updated_at": "2026-05-11T22:06:12+00:00",
+          "merged_at": "2026-05-11T22:02:26+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "daphnegold",
+          "is_new": false
+        },
+        {
+          "title": "FFS-4009: Basic demo launcher",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1673",
+          "created_at": "2026-04-30T20:38:16+00:00",
+          "updated_at": "2026-05-13T16:26:12+00:00",
+          "merged_at": "2026-05-13T16:26:09+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "millerti",
+          "is_new": false
+        }
+      ],
+      "commits": [
+        {
+          "message": "Bump vitest from 4.1.5 to 4.1.6 in /app (#1702)\n\nBumps [vitest](https://github.com/vitest-dev/vitest/tree/HEAD/packages/vitest) from 4.1.5 to 4.1.6.\n- [Release notes](https://github.com/vitest-dev/vitest/releases)\n- [Commits](https://github.com/vitest-dev/vitest/commits/v4.1.6/packages/vitest)\n\n---\nupdated-dependencies:\n- dependency-name: vitest\n  dependency-version: 4.1.6\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/46935ee10d58bbe2972757b041aba9af4453754c",
+          "author": "dependabot[bot]",
+          "created_at": "2026-05-13T21:07:22+00:00"
+        },
+        {
+          "message": "Fix PR environment DB/Argyle access (#1709)",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/b4f76c44d0be2acfa8f3890cb3333051ffc980e8",
+          "author": "Ben Calegari",
+          "created_at": "2026-05-13T21:06:42+00:00"
+        },
+        {
+          "message": "Bump factory_bot from 6.5.6 to 6.6.0 in /app (#1706)\n\nBumps [factory_bot](https://github.com/thoughtbot/factory_bot) from 6.5.6 to 6.6.0.\n- [Release notes](https://github.com/thoughtbot/factory_bot/releases)\n- [Changelog](https://github.com/thoughtbot/factory_bot/blob/main/NEWS.md)\n- [Commits](https://github.com/thoughtbot/factory_bot/compare/v6.5.6...v6.6.0)\n\n---\nupdated-dependencies:\n- dependency-name: factory_bot\n  dependency-version: 6.6.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/9ab0e5949a2f898b510acfd8e7e5fad853220f8c",
+          "author": "dependabot[bot]",
+          "created_at": "2026-05-13T21:06:40+00:00"
+        },
+        {
+          "message": "Bump axe-core-rspec from 4.11.2 to 4.11.3 in /app (#1705)\n\nBumps [axe-core-rspec](https://github.com/dequelabs/axe-core-gems) from 4.11.2 to 4.11.3.\n- [Release notes](https://github.com/dequelabs/axe-core-gems/releases)\n- [Changelog](https://github.com/dequelabs/axe-core-gems/blob/develop/CHANGELOG.md)\n- [Commits](https://github.com/dequelabs/axe-core-gems/compare/v4.11.2...v4.11.3)\n\n---\nupdated-dependencies:\n- dependency-name: axe-core-rspec\n  dependency-version: 4.11.3\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/6e708f0bbd32f71de9eed4608f025257f6ca431d",
+          "author": "dependabot[bot]",
+          "created_at": "2026-05-13T21:06:08+00:00"
+        },
+        {
+          "message": "Bump selenium-webdriver from 4.43.0 to 4.44.0 in /app (#1704)\n\nBumps [selenium-webdriver](https://github.com/SeleniumHQ/selenium) from 4.43.0 to 4.44.0.\n- [Release notes](https://github.com/SeleniumHQ/selenium/releases)\n- [Changelog](https://github.com/SeleniumHQ/selenium/blob/trunk/rb/CHANGES)\n- [Commits](https://github.com/SeleniumHQ/selenium/commits)\n\n---\nupdated-dependencies:\n- dependency-name: selenium-webdriver\n  dependency-version: 4.44.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/adad3d4527ddc9690114a5e3bc6afe4b9a9983ea",
+          "author": "dependabot[bot]",
+          "created_at": "2026-05-13T21:05:20+00:00"
+        },
+        {
+          "message": "Bump aws-sdk-s3 from 1.220.0 to 1.221.0 in /app (#1703)\n\nBumps [aws-sdk-s3](https://github.com/aws/aws-sdk-ruby) from 1.220.0 to 1.221.0.\n- [Release notes](https://github.com/aws/aws-sdk-ruby/releases)\n- [Changelog](https://github.com/aws/aws-sdk-ruby/blob/version-3/gems/aws-sdk-s3/CHANGELOG.md)\n- [Commits](https://github.com/aws/aws-sdk-ruby/commits)\n\n---\nupdated-dependencies:\n- dependency-name: aws-sdk-s3\n  dependency-version: 1.221.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/e9e2859667e2efee8dbd72fe5879b6f9b64fa81e",
+          "author": "dependabot[bot]",
+          "created_at": "2026-05-13T21:04:36+00:00"
+        },
+        {
+          "message": "Bump view_component from 4.9.0 to 4.10.0 in /app (#1701)\n\nBumps [view_component](https://github.com/viewcomponent/view_component) from 4.9.0 to 4.10.0.\n- [Release notes](https://github.com/viewcomponent/view_component/releases)\n- [Changelog](https://github.com/ViewComponent/view_component/blob/main/docs/CHANGELOG.md)\n- [Commits](https://github.com/viewcomponent/view_component/compare/v4.9.0...v4.10.0)\n\n---\nupdated-dependencies:\n- dependency-name: view_component\n  dependency-version: 4.10.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/cc73b08e74ad2f0659b18c8df5fc7e8015330eac",
+          "author": "dependabot[bot]",
+          "created_at": "2026-05-13T21:01:19+00:00"
+        },
+        {
+          "message": "Bump vite from 8.0.10 to 8.0.12 in /app (#1700)\n\nBumps [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite) from 8.0.10 to 8.0.12.\n- [Release notes](https://github.com/vitejs/vite/releases)\n- [Changelog](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)\n- [Commits](https://github.com/vitejs/vite/commits/v8.0.12/packages/vite)\n\n---\nupdated-dependencies:\n- dependency-name: vite\n  dependency-version: 8.0.12\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/ecf5c88e87adc1f4bf58b9f09ff7bd4bb4b9b86b",
+          "author": "dependabot[bot]",
+          "created_at": "2026-05-13T20:45:01+00:00"
+        },
+        {
+          "message": "Bump urllib3 in /app/analytics in the pip group across 1 directory (#1694)\n\nBumps the pip group with 1 update in the /app/analytics directory: [urllib3](https://github.com/urllib3/urllib3).\n\n\nUpdates `urllib3` from 2.6.3 to 2.7.0\n- [Release notes](https://github.com/urllib3/urllib3/releases)\n- [Changelog](https://github.com/urllib3/urllib3/blob/main/CHANGES.rst)\n- [Commits](https://github.com/urllib3/urllib3/compare/2.6.3...2.7.0)\n\n---\nupdated-dependencies:\n- dependency-name: urllib3\n  dependency-version: 2.7.0\n  dependency-type: direct:production\n  dependency-group: pip\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/8fe32d1fc83b32a989932b8db70fa4d2bdbf4de1",
+          "author": "dependabot[bot]",
+          "created_at": "2026-05-13T20:44:22+00:00"
+        },
+        {
+          "message": "FFS-4059: Validated education activity routing skips enrollment details page (#1696)",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/206960cf4163648c5a841505005134125e5be3fa",
+          "author": "Ben Calegari",
+          "created_at": "2026-05-13T17:36:29+00:00"
+        },
+        {
+          "message": "FFS-4009: Basic demo launcher (#1673)\n\n* Split the /demo page into two versions: /launcher, which is a new, simplified version focused on creating excellent demos, and /launcher/advanced, which is the same as the pre-existing /demo page, focused on allowing thorough testing and debugging.\n* Created a more adversarial test suite for the /launcher page so that, if we share with states, we catch misuse of parameters.",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/88e8bdc1b5969d4f339d2e03dfe2923c3dbe3624",
+          "author": "Tim Miller",
+          "created_at": "2026-05-13T16:26:09+00:00"
+        },
+        {
+          "message": "FFS-4011: Employment details pulling specific dates instead of months (#1685)",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/70aa5276bef627c38004ccffe0ae4e3f2e1a7d1c",
+          "author": "Daphne Gold",
+          "created_at": "2026-05-11T22:02:26+00:00"
+        },
+        {
+          "message": "Update readme4197 (#1695)\n\n* first edits\n\n* first edits\n\n* first edits\n\n* first edits\n\n* first edits\n\n* Links to cms gov page\n\n* Update README.md\n\nCo-authored-by: Tom Dooner <tomdooner@navapbc.com>\n\n* Update README.md\n\nCo-authored-by: Tom Dooner <tomdooner@navapbc.com>\n\n* move up link to CONTRIBUTING.md since a lot of technical walkthrough is moved there\n\n* update after review feedback\n\n* broken links fix\n\n* fresh edits\n\n---------\n\nCo-authored-by: Nocnica <nicamellifera@navapbc.com>\nCo-authored-by: Tom Dooner <tomdooner@navapbc.com>",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/b95870513fc692e07da7c5675779f0dfc14ea04e",
+          "author": "No\u010dnica Mellifera",
+          "created_at": "2026-05-11T19:14:31+00:00"
+        },
+        {
+          "message": "fix: patch Dockerfile for OS-level CVEs flagged by Trivy/Anchore (#1693)\n\nCo-authored-by: bencalegari <4923102+bencalegari@users.noreply.github.com>",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/3b4ac49e5856fb7e71a5ee365ae04751200f68b2",
+          "author": "github-actions[bot]",
+          "created_at": "2026-05-11T17:09:04+00:00"
+        },
+        {
+          "message": "Bump devise in /app in the bundler group across 1 directory (#1691)\n\nBumps the bundler group with 1 update in the /app directory: [devise](https://github.com/heartcombo/devise).\n\n\nUpdates `devise` from 5.0.3 to 5.0.4\n- [Release notes](https://github.com/heartcombo/devise/releases)\n- [Changelog](https://github.com/heartcombo/devise/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/heartcombo/devise/compare/v5.0.3...v5.0.4)\n\n---\nupdated-dependencies:\n- dependency-name: devise\n  dependency-version: 5.0.4\n  dependency-type: direct:production\n  dependency-group: bundler\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/3dc2a968ed850f5e875ef91baca3f6f3b165ca83",
+          "author": "dependabot[bot]",
+          "created_at": "2026-05-11T16:42:09+00:00"
+        },
+        {
+          "message": "Bump fast-uri in /app in the npm_and_yarn group across 1 directory (#1692)\n\nBumps the npm_and_yarn group with 1 update in the /app directory: [fast-uri](https://github.com/fastify/fast-uri).\n\n\nUpdates `fast-uri` from 3.1.0 to 3.1.2\n- [Release notes](https://github.com/fastify/fast-uri/releases)\n- [Commits](https://github.com/fastify/fast-uri/compare/v3.1.0...v3.1.2)\n\n---\nupdated-dependencies:\n- dependency-name: fast-uri\n  dependency-version: 3.1.2\n  dependency-type: indirect\n  dependency-group: npm_and_yarn\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+          "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/61544545dad1b520c0657c64d410fbe4ea1852c8",
+          "author": "dependabot[bot]",
+          "created_at": "2026-05-11T16:41:56+00:00"
+        }
+      ],
+      "contributors": [],
+      "changelog_entries": [],
+      "releases": []
+    },
+    {
+      "name": "testing-repository",
+      "url": "https://github.com/DSACMS/testing-repository",
+      "description": "Test repository for Repolinter Actions",
+      "archived": false,
+      "topics": [],
+      "issues": [],
+      "pulls": [],
+      "commits": [
+        {
+          "message": "Update empty-repos.yml",
+          "url": "https://github.com/DSACMS/testing-repository/commit/bb86fa60a7a7f30a59b3bcaf085f82eed02dca8f",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-13T05:58:37+00:00"
+        },
+        {
+          "message": "Update empty-repos-scanner.js",
+          "url": "https://github.com/DSACMS/testing-repository/commit/6d943a8ac8e31c06cf768be720b0682579bf9073",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-13T05:56:21+00:00"
+        },
+        {
+          "message": "Update empty-repos-scanner.js",
+          "url": "https://github.com/DSACMS/testing-repository/commit/8d6dd40d395cccc11e05b4a800ee00e991a90c19",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-13T05:55:54+00:00"
+        },
+        {
+          "message": "Update empty-repos.yml",
+          "url": "https://github.com/DSACMS/testing-repository/commit/b9aad3a726821a0da7ee1080aa2181eea3007371",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-13T05:52:59+00:00"
+        },
+        {
+          "message": "Update empty-repos.yml",
+          "url": "https://github.com/DSACMS/testing-repository/commit/2e073887c5dd6e3410950693ca1fa99ccd94389e",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-13T05:33:28+00:00"
+        },
+        {
+          "message": "Update empty-repos.yml",
+          "url": "https://github.com/DSACMS/testing-repository/commit/b2eb87b7abd4cf291f19db856991d07a5ba62fc2",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-13T05:30:06+00:00"
+        },
+        {
+          "message": "Update empty-repos.yml",
+          "url": "https://github.com/DSACMS/testing-repository/commit/2aef3e30c13609847edc3b069633cce8f8248567",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-13T05:22:45+00:00"
+        },
+        {
+          "message": "Update empty-repos.yml",
+          "url": "https://github.com/DSACMS/testing-repository/commit/e2f6b872eb8af7b0286f944174daafef6bbbb3ed",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-12T22:44:00+00:00"
+        },
+        {
+          "message": "Update empty-repos.yml",
+          "url": "https://github.com/DSACMS/testing-repository/commit/a564260f6ff0aa0346589992de5e72f43722d14a",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-12T22:42:54+00:00"
+        },
+        {
+          "message": "Add Empty Repos Scanner for GitHub organizations",
+          "url": "https://github.com/DSACMS/testing-repository/commit/7ddbd4f6064cdc172bfab5b7e16e53cd3cfacc26",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-12T22:39:29+00:00"
+        },
+        {
+          "message": "Create empty-repos.yml",
+          "url": "https://github.com/DSACMS/testing-repository/commit/a502d3ef88b309a2fa8ed047797bb8e222aa42bf",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-12T22:38:28+00:00"
+        }
+      ],
+      "contributors": [],
+      "changelog_entries": [],
+      "releases": []
+    },
+    {
+      "name": "gov-codejson",
+      "url": "https://github.com/DSACMS/gov-codejson",
+      "description": "CMS code.json: An agency-wide metadata standard for software projects",
+      "archived": false,
+      "topics": [
+        "dsacms-tier3",
+        "government",
+        "json",
+        "metadata-standard",
+        "featured",
+        "codejson",
+        "metadata"
+      ],
+      "issues": [],
+      "pulls": [
+        {
+          "title": "Update faq.md",
+          "url": "https://github.com/DSACMS/gov-codejson/pull/55",
+          "created_at": "2026-05-11T18:44:56+00:00",
+          "updated_at": "2026-05-11T18:47:55+00:00",
+          "merged_at": "2026-05-11T18:47:55+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "decause-gov",
+          "is_new": true
+        }
+      ],
+      "commits": [
+        {
+          "message": "update contributors information",
+          "url": "https://github.com/DSACMS/gov-codejson/commit/d21f5a762d088edbbe8b065af30bff71f451cf7f",
+          "author": "github-actions[bot]",
+          "created_at": "2026-05-11T18:48:21+00:00"
+        },
+        {
+          "message": "Merge pull request #55 from DSACMS/decause-gov-patch-1\n\nUpdate faq.md",
+          "url": "https://github.com/DSACMS/gov-codejson/commit/33b221f15299902bdff858325b2b219738486346",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T18:47:55+00:00"
+        },
+        {
+          "message": "Update faq.md\n\nFix FOIA exemption text",
+          "url": "https://github.com/DSACMS/gov-codejson/commit/c4b3f57623696d2308a90932b52253e96d9fecf1",
+          "author": "decause-gov",
+          "created_at": "2026-05-11T18:42:42+00:00"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Natalia Luzuriaga",
+          "company": "@CMSgov (work) + personal projects",
+          "created_at": "2017-07-07T13:48:50+00:00",
+          "email": "nat.luzuriaga@gmail.com"
+        }
+      ],
+      "changelog_entries": [],
+      "releases": []
+    },
+    {
+      "name": "cms-it-alliance-demo",
+      "url": "https://github.com/DSACMS/cms-it-alliance-demo",
+      "description": "Demo repo for CMS IT Alliance Presentation about SHARE IT Act",
+      "archived": false,
+      "topics": [],
+      "issues": [],
+      "pulls": [],
+      "commits": [
+        {
+          "message": "Add files via upload",
+          "url": "https://github.com/DSACMS/cms-it-alliance-demo/commit/1b3517cd9e6defe40274cfa160570ffb7506ee3d",
+          "author": "Sachin Panayil",
+          "created_at": "2026-05-12T18:53:16+00:00"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Sachin Panayil",
+          "company": "@DSACMS ",
+          "created_at": "2021-02-20T21:39:48+00:00",
+          "email": null
+        }
+      ],
+      "changelog_entries": [],
+      "releases": []
+    },
+    {
+      "name": "share-it-act-lp",
+      "url": "https://github.com/DSACMS/share-it-act-lp",
+      "description": "Guide to the SHARE IT Act helping federal agencies comply with source code sharing requirements",
+      "archived": false,
+      "topics": [
+        "cms-ospo",
+        "share-it-act",
+        "featured",
+        "codejson",
+        "inventory",
+        "metadata"
+      ],
+      "issues": [],
+      "pulls": [
+        {
+          "title": "Fix doc order",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/48",
+          "created_at": "2026-05-11T19:57:26+00:00",
+          "updated_at": "2026-05-11T19:58:54+00:00",
+          "merged_at": "2026-05-11T19:58:53+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "DinneK",
+          "is_new": true
+        },
+        {
+          "title": "Update SHARE IT Act exemptions documentation",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/47",
+          "created_at": "2026-05-11T19:39:31+00:00",
+          "updated_at": "2026-05-11T22:30:52+00:00",
+          "merged_at": "2026-05-11T22:30:51+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "natalialuzuriaga",
+          "is_new": true
+        },
+        {
+          "title": "Update code.json",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/46",
+          "created_at": "2026-05-11T19:16:21+00:00",
+          "updated_at": "2026-05-11T19:20:49+00:00",
+          "merged_at": "2026-05-11T19:20:49+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "github-actions[bot]",
+          "is_new": true
+        },
+        {
+          "title": "Add savings link to nav bar",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/45",
+          "created_at": "2026-05-11T19:07:30+00:00",
+          "updated_at": "2026-05-11T19:11:11+00:00",
+          "merged_at": "2026-05-11T19:11:11+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "DinneK",
+          "is_new": true
+        },
+        {
+          "title": "Repository: Add PR and issue templates",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/44",
+          "created_at": "2026-05-11T19:00:21+00:00",
+          "updated_at": "2026-05-11T19:04:22+00:00",
+          "merged_at": "2026-05-11T19:04:21+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "natalialuzuriaga",
+          "is_new": true
+        },
+        {
+          "title": "Docs: Add checkbox markdown support using markdown-it-tasks-lists",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/43",
+          "created_at": "2026-05-11T18:50:58+00:00",
+          "updated_at": "2026-05-11T19:04:38+00:00",
+          "merged_at": "2026-05-11T19:04:38+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "natalialuzuriaga",
+          "is_new": true
+        },
+        {
+          "title": "Clarify exemptions in FAQ regarding source code",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/42",
+          "created_at": "2026-05-11T18:47:12+00:00",
+          "updated_at": "2026-05-11T19:03:02+00:00",
+          "merged_at": "2026-05-11T19:03:02+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "natalialuzuriaga",
+          "is_new": true
+        },
+        {
+          "title": "Update exemptions page",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/41",
+          "created_at": "2026-05-11T18:34:31+00:00",
+          "updated_at": "2026-05-11T19:03:25+00:00",
+          "merged_at": "2026-05-11T19:03:24+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "natalialuzuriaga",
+          "is_new": true
+        },
+        {
+          "title": "Update code.json",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/40",
+          "created_at": "2026-05-01T02:03:13+00:00",
+          "updated_at": "2026-05-11T19:14:09+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "github-actions[bot]",
+          "is_new": false
+        },
+        {
+          "title": "Update code.json",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/39",
+          "created_at": "2026-04-01T01:30:14+00:00",
+          "updated_at": "2026-05-11T19:09:37+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "github-actions[bot]",
+          "is_new": false
+        },
+        {
+          "title": "Update code.json",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/37",
+          "created_at": "2026-03-01T01:20:41+00:00",
+          "updated_at": "2026-05-11T19:09:29+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "github-actions[bot]",
+          "is_new": false
+        },
+        {
+          "title": "Update code.json",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/36",
+          "created_at": "2026-02-01T01:21:54+00:00",
+          "updated_at": "2026-05-11T19:09:19+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "github-actions[bot]",
+          "is_new": false
+        },
+        {
+          "title": "Update code.json",
+          "url": "https://github.com/DSACMS/share-it-act-lp/pull/35",
+          "created_at": "2026-01-01T01:05:52+00:00",
+          "updated_at": "2026-05-11T19:09:11+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "github-actions[bot]",
+          "is_new": false
+        }
+      ],
+      "commits": [
+        {
+          "message": "Merge pull request #47 from DSACMS/natalialuzuriaga-patch-6\n\nUpdate SHARE IT Act exemptions documentation",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/0d8127c90c6c3a1b3422d176b87c3a3424c33380",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T22:30:51+00:00"
+        },
+        {
+          "message": "Merge pull request #48 from DSACMS/Fix-doc-order\n\nFix doc order",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/3afef887e204c7a9809095caf69dfe0463face0f",
+          "author": "Dinne Kopelevich",
+          "created_at": "2026-05-11T19:58:53+00:00"
+        },
+        {
+          "message": "Fix doc order\n\nSigned-off-by: Dinne Kopelevich <dinne.kopelevich@gsa.gov>",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/83e2108c1565ff18b97d9cacd0963a1aca90f276",
+          "author": "Dinne Kopelevich",
+          "created_at": "2026-05-11T19:55:12+00:00"
+        },
+        {
+          "message": "Update SHARE IT Act exemptions documentation\n\nRemoved section on risk acceptance for open-sourcing software.",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/43684d7c7052a7b0afd4998f54ceef869bc0b98e",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T19:38:09+00:00"
+        },
+        {
+          "message": "Merge pull request #46 from DSACMS/code-json-1778526978604\n\nUpdate code.json",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/a11f470682f9ca55c348d86aea0e5676b055b8c2",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T19:20:48+00:00"
+        },
+        {
+          "message": "Add new tags to code.json",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/11b5ba73907c86ebcc1e83279527fc7f21d5ac36",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T19:18:44+00:00"
+        },
+        {
+          "message": "Update code.json metadata",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/b3441946a9fd5f192781052e135a07a39e8f46da",
+          "author": "github-actions[bot]",
+          "created_at": "2026-05-11T19:16:19+00:00"
+        },
+        {
+          "message": "Merge pull request #45 from DSACMS/Add-savings-to-nav\n\nAdd savings link to nav bar",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/6a34de72748f44883d3fd3f229c2025663d2477f",
+          "author": "Dinne Kopelevich",
+          "created_at": "2026-05-11T19:11:10+00:00"
+        },
+        {
+          "message": "Add savings link to nav bar\n\nSigned-off-by: Dinne Kopelevich <dinne.kopelevich@gsa.gov>",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/83c2376403eea66c0d55b30948e222607d4cd887",
+          "author": "Dinne Kopelevich",
+          "created_at": "2026-05-11T19:06:03+00:00"
+        },
+        {
+          "message": "Merge pull request #43 from DSACMS/DSACMS/nat/checkbox\n\nDocs: Add checkbox markdown support using markdown-it-tasks-lists",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/ebdcf28dab7124c4064a6c0ed1569ce07c78ec24",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T19:04:38+00:00"
+        },
+        {
+          "message": "Merge pull request #44 from DSACMS/DSACMS/nat/templates\n\nRepository: Add PR and issue templates",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/7795ac4f4c3795aa8f51a76c9b6953e41bfc19bd",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T19:04:21+00:00"
+        },
+        {
+          "message": "Merge pull request #41 from DSACMS/natalialuzuriaga-patch-4\n\nUpdate exemptions page",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/36b0acb18bdb9c92edd64dbf7814d87eba01648f",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T19:03:24+00:00"
+        },
+        {
+          "message": "Merge pull request #42 from DSACMS/natalialuzuriaga-patch-5\n\nClarify exemptions in FAQ regarding source code",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/6ffb12f7ba768c3f87f865af36f96a60a90c1d28",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T19:03:02+00:00"
+        },
+        {
+          "message": "Add issue templates\n\nSigned-off-by: Natalia Luzuriaga <natalia.luzuriaga@cms.hhs.gov>",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/f6d03a689ef279f0d7cfeeaac2f255ce2714d7e4",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T18:57:39+00:00"
+        },
+        {
+          "message": "Add pull request template\n\nSigned-off-by: Natalia Luzuriaga <natalia.luzuriaga@cms.hhs.gov>",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/27935ddd6272434e03c0363bdd78c7d47571fa5b",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T18:57:19+00:00"
+        },
+        {
+          "message": "Clarify exemptions in FAQ regarding source code",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/0a4597e8cc3f87b894c38bbe8e8683b09a286773",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T18:46:57+00:00"
+        },
+        {
+          "message": "Add checkbox markdown support using markdown-it-tasks-lists\n\nSigned-off-by: Natalia Luzuriaga <natalia.luzuriaga@cms.hhs.gov>",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/fde46673f4ec2595963bd66c53a5378fe014aa58",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T18:45:00+00:00"
+        },
+        {
+          "message": "Update security and privacy verification checks\n\nRemoved checks related to CMS Internal Systems and credentials.",
+          "url": "https://github.com/DSACMS/share-it-act-lp/commit/bf8a567017ba3d4eed3ee2f252196ca96af06845",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-11T18:32:46+00:00"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Natalia Luzuriaga",
+          "company": "@CMSgov (work) + personal projects",
+          "created_at": "2017-07-07T13:48:50+00:00",
+          "email": "nat.luzuriaga@gmail.com"
+        },
+        {
+          "name": "Dinne Kopelevich",
+          "company": "DSAC(Work), GSA (work) + personal projects",
+          "created_at": "2020-04-17T19:37:59+00:00",
+          "email": null
+        }
+      ],
+      "changelog_entries": [],
+      "releases": []
+    },
+    {
+      "name": "super-changelog",
+      "url": "https://github.com/DSACMS/super-changelog",
+      "description": "SuperChangelog is a tool for aggregating CHANGELOG.md files from individual repositories into one SUPERCHANGELOG",
+      "archived": false,
+      "topics": [
+        "cmsgov",
+        "cmsoss-tier3",
+        "commops",
+        "ospo",
+        "superchangelog",
+        "featured"
+      ],
+      "issues": [],
+      "pulls": [
+        {
+          "title": "Historical changelog 2026 05 01 to 2026 05 14",
+          "url": "https://github.com/DSACMS/super-changelog/pull/95",
+          "created_at": "2026-05-14T14:51:34+00:00",
+          "updated_at": "2026-05-14T14:52:08+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "natalialuzuriaga",
+          "is_new": true
+        },
+        {
+          "title": "Add historical changelog data from 2026-05-01 to 2026-05-14",
+          "url": "https://github.com/DSACMS/super-changelog/pull/94",
+          "created_at": "2026-05-14T14:26:50+00:00",
+          "updated_at": "2026-05-14T14:38:52+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "IsaacMilarky",
+          "is_new": true
+        },
+        {
+          "title": "Add properties",
+          "url": "https://github.com/DSACMS/super-changelog/pull/93",
+          "created_at": "2026-05-14T14:25:05+00:00",
+          "updated_at": "2026-05-14T14:53:20+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "natalialuzuriaga",
+          "is_new": true
+        },
+        {
+          "title": "Add properties",
+          "url": "https://github.com/DSACMS/super-changelog/pull/92",
+          "created_at": "2026-05-14T13:00:28+00:00",
+          "updated_at": "2026-05-14T15:15:20+00:00",
+          "merged_at": null,
+          "state": "open",
+          "merged": false,
+          "author": "DinneK",
+          "is_new": true
+        }
+      ],
+      "commits": [],
+      "contributors": [],
+      "changelog_entries": [],
+      "releases": []
+    },
+    {
+      "name": "share-it-savings",
+      "url": "https://github.com/DSACMS/share-it-savings",
+      "description": "Scripts for estimating time and cost savings from OSPO proposed implementation of the SHARE IT Act",
+      "archived": false,
+      "topics": [],
+      "issues": [],
+      "pulls": [],
+      "commits": [
+        {
+          "message": "Link to methodology section from banner",
+          "url": "https://github.com/DSACMS/share-it-savings/commit/d8ff1145131f150a5d0774d73e9ac67dbd18e70f",
+          "author": "Remy",
+          "created_at": "2026-05-11T19:23:25+00:00"
+        },
+        {
+          "message": "Update methodology URL share-it-savings-banner.png",
+          "url": "https://github.com/DSACMS/share-it-savings/commit/d8f54abc5103d28a69863810c92fd2ce1eabee58",
+          "author": "Remy",
+          "created_at": "2026-05-11T19:20:49+00:00"
+        },
+        {
+          "message": "Move header below banner",
+          "url": "https://github.com/DSACMS/share-it-savings/commit/a8a5ff3f03cba840d257cb5d027284d710fe498d",
+          "author": "Remy",
+          "created_at": "2026-05-11T19:15:40+00:00"
+        },
+        {
+          "message": "Update README.md to include the new banner",
+          "url": "https://github.com/DSACMS/share-it-savings/commit/63c2ec96665e5c2aaaa18253da05483503e683dd",
+          "author": "Remy",
+          "created_at": "2026-05-11T19:13:10+00:00"
+        },
+        {
+          "message": "Add Rendered SHARE IT Savings Banner",
+          "url": "https://github.com/DSACMS/share-it-savings/commit/300ff2d3751f9e424d8940acaaa966f4c5ae3706",
+          "author": "Remy",
+          "created_at": "2026-05-11T19:09:10+00:00"
+        },
+        {
+          "message": "Format resource table in README.md",
+          "url": "https://github.com/DSACMS/share-it-savings/commit/ffd788cc4292a099f4dbe40486acdf8d1bfb18d2",
+          "author": "Sachin Panayil",
+          "created_at": "2026-05-11T18:58:04+00:00"
+        },
+        {
+          "message": "Update README.md\n\nAdd a linebreak under the Processes and Tools header to fix table render issues in gh-pages.",
+          "url": "https://github.com/DSACMS/share-it-savings/commit/5b7407f713808e026fa9fa491ede1c540fb7d84c",
+          "author": "decause-gov",
+          "created_at": "2026-05-11T18:57:07+00:00"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "decause-gov",
+          "company": "@CMSgov ",
+          "created_at": "2022-06-21T20:20:11+00:00",
+          "email": null
+        },
+        {
+          "name": "Sachin Panayil",
+          "company": "@DSACMS ",
+          "created_at": "2021-02-20T21:39:48+00:00",
+          "email": null
+        }
+      ],
+      "changelog_entries": [],
+      "releases": []
+    },
+    {
+      "name": "archival-identifier",
+      "url": "https://github.com/DSACMS/archival-identifier",
+      "description": "A GitHub Action to identify repositories for archival",
+      "archived": false,
+      "topics": [
+        "dsacms-tier3"
+      ],
+      "issues": [],
+      "pulls": [
+        {
+          "title": "Action: Update inactivity script and action.yml to reflect new super-changelog subaction",
+          "url": "https://github.com/DSACMS/archival-identifier/pull/9",
+          "created_at": "2026-05-13T16:03:59+00:00",
+          "updated_at": "2026-05-14T13:24:02+00:00",
+          "merged_at": null,
+          "state": "open",
+          "merged": false,
+          "author": "natalialuzuriaga",
+          "is_new": true
+        },
+        {
+          "title": "Add usage to README",
+          "url": "https://github.com/DSACMS/archival-identifier/pull/8",
+          "created_at": "2026-05-13T14:59:30+00:00",
+          "updated_at": "2026-05-13T21:25:28+00:00",
+          "merged_at": "2026-05-13T21:25:27+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "DinneK",
+          "is_new": true
+        },
+        {
+          "title": "Add changelog sub-action",
+          "url": "https://github.com/DSACMS/archival-identifier/pull/7",
+          "created_at": "2026-05-07T18:57:16+00:00",
+          "updated_at": "2026-05-11T17:39:09+00:00",
+          "merged_at": "2026-05-11T17:39:09+00:00",
+          "state": "closed",
+          "merged": true,
+          "author": "DinneK",
+          "is_new": false
+        },
+        {
+          "title": "Update code.json",
+          "url": "https://github.com/DSACMS/archival-identifier/pull/6",
+          "created_at": "2026-05-01T02:32:55+00:00",
+          "updated_at": "2026-05-13T15:23:41+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "github-actions[bot]",
+          "is_new": false
+        },
+        {
+          "title": "Update code.json",
+          "url": "https://github.com/DSACMS/archival-identifier/pull/5",
+          "created_at": "2026-04-01T02:02:02+00:00",
+          "updated_at": "2026-05-13T15:23:30+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "github-actions[bot]",
+          "is_new": false
+        },
+        {
+          "title": "Update code.json",
+          "url": "https://github.com/DSACMS/archival-identifier/pull/3",
+          "created_at": "2026-03-01T01:49:45+00:00",
+          "updated_at": "2026-05-13T15:23:22+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "github-actions[bot]",
+          "is_new": false
+        },
+        {
+          "title": "Update code.json",
+          "url": "https://github.com/DSACMS/archival-identifier/pull/2",
+          "created_at": "2026-02-01T01:51:03+00:00",
+          "updated_at": "2026-05-13T15:23:12+00:00",
+          "merged_at": null,
+          "state": "closed",
+          "merged": false,
+          "author": "github-actions[bot]",
+          "is_new": false
+        }
+      ],
+      "commits": [
+        {
+          "message": "Merge pull request #8 from DSACMS/Add-usage\n\nAdd usage to README",
+          "url": "https://github.com/DSACMS/archival-identifier/commit/ce6e63dd4b0e8dffb419db5af7f81265c22d60a7",
+          "author": "Natalia Luzuriaga",
+          "created_at": "2026-05-13T21:25:27+00:00"
+        },
+        {
+          "message": "Add usage to README\n\nSigned-off-by: Dinne Kopelevich <dinne.kopelevich@gsa.gov>",
+          "url": "https://github.com/DSACMS/archival-identifier/commit/76c497485a529f376873c907cc12a5c59adb1de1",
+          "author": "Dinne Kopelevich",
+          "created_at": "2026-05-13T14:50:09+00:00"
+        },
+        {
+          "message": "updating contributors list",
+          "url": "https://github.com/DSACMS/archival-identifier/commit/2d0ea6efae3e76e463b8c5abd7523539efc07b97",
+          "author": "github-actions[bot]",
+          "created_at": "2026-05-11T17:39:33+00:00"
+        },
+        {
+          "message": "Merge pull request #7 from DSACMS/fetch-changelog-action\n\nAdd changelog sub-action",
+          "url": "https://github.com/DSACMS/archival-identifier/commit/2d23f7b6cb18286d36b5b638c03266446c98f8f9",
+          "author": "Dinne Kopelevich",
+          "created_at": "2026-05-11T17:39:09+00:00"
+        },
+        {
+          "message": "Remove 'ls' and 'pwd', no longer needed for debugging\n\nSigned-off-by: Dinne Kopelevich <dinne.kopelevich@gsa.gov>",
+          "url": "https://github.com/DSACMS/archival-identifier/commit/c2adbd176ecda10e941f9815683fdfb7dc94535a",
+          "author": "Dinne Kopelevich",
+          "created_at": "2026-05-11T16:30:53+00:00"
+        },
+        {
+          "message": "Add PR fixes\n\nSigned-off-by: Dinne Kopelevich <dinne.kopelevich@gsa.gov>",
+          "url": "https://github.com/DSACMS/archival-identifier/commit/3e79c7539ed666af1f071e87f4db3c4fdd8d97e1",
+          "author": "Dinne Kopelevich",
+          "created_at": "2026-05-11T16:15:59+00:00"
+        }
+      ],
+      "contributors": [],
+      "changelog_entries": [],
+      "releases": []
+    },
+    {
+      "name": "codejson-crosswalk",
+      "url": "https://github.com/DSACMS/codejson-crosswalk",
+      "description": "NPM package that bidirectionally converts code.json to other metadata formats",
+      "archived": false,
+      "topics": [],
+      "issues": [],
+      "pulls": [],
+      "commits": [
+        {
+          "message": "cleanign up documentation",
+          "url": "https://github.com/DSACMS/codejson-crosswalk/commit/9034ede87c7ae8593dbaac98f4ea8a75c279fb79",
+          "author": "Sachin Panayil",
+          "created_at": "2026-05-12T14:37:36+00:00"
+        },
+        {
+          "message": "refined mappings and included a explainer README",
+          "url": "https://github.com/DSACMS/codejson-crosswalk/commit/6e64413ccf483fcd49268aa452724da5d023fc60",
+          "author": "Sachin Panayil",
+          "created_at": "2026-05-11T14:34:34+00:00"
+        }
+      ],
+      "contributors": [],
+      "changelog_entries": [],
+      "releases": []
+    },
+    {
+      "name": "fast-facts-2.0",
+      "url": "https://github.com/DSACMS/fast-facts-2.0",
+      "description": "Reimagining CMS Fast Facts communication of summary information",
+      "archived": false,
+      "topics": [
+        "dsacms-tier2"
+      ],
+      "issues": [],
+      "pulls": [],
+      "commits": [
+        {
+          "message": "feat: add in initial part d component",
+          "url": "https://github.com/DSACMS/fast-facts-2.0/commit/82fc02ed55ceec5b88167a135a932848a1b6d342",
+          "author": "Aaron Chafetz",
+          "created_at": "2026-05-11T17:42:09+00:00"
+        }
+      ],
+      "contributors": [],
+      "changelog_entries": [],
+      "releases": []
+    }
+  ],
+  "period": {
+    "start": "2026-05-11",
+    "end": "2026-05-14"
+  },
+  "generated_at": "2026-05-14T15:20:46.132674+00:00",
+  "total_repo_count": 83
+}
